@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm "Joe Lin" or "Hong-Shao" 👋
 
 <!--
 **Joe-lin-ezra/Joe-lin-ezra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 📫 How to reach me: joee0511@gmail.com
-- 
+
+used Languages & Tools
+(preparing)
