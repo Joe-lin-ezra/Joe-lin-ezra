@@ -7,7 +7,7 @@ Backend Developer
 *   ✉️  You can contact me at [joelin.hongshao.business@gmail.com](mailto:joelin.hongshao.business@gmail.com)
 *   🚀  I'm currently working on [Trunk Studio](http://trunk-studio.com/)
 
-### Skills
+### Skills & Tools
 <p align="left">
   
   #### Backend
@@ -19,6 +19,9 @@ Backend Developer
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+  
+  #### Virtualization
+  
   
   #### CI/CD
   <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
